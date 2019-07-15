@@ -1,2 +1,4 @@
 first other has to pull then he can push
  this is 3rd file 
+
+this is in dev branch. will use if for merging
